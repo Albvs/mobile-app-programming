@@ -20,3 +20,23 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function myPersonalData(){
+	data = "I'm Albert - professional android software developer nobody can beat me f*ck off";
+	navigator.notification.alert(data);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
